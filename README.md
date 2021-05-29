@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ridaelbardai
 - 👀 I’m interested in softwares
-- 🌱 I’m currently learning GTK+
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me : rb.99@hotmail.fr
 
